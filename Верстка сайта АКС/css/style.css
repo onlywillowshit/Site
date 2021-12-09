@@ -1,0 +1,27 @@
+body {
+	background-color: red;
+}
+.menu {
+	position: absolute;
+	width: 1445px;
+	height: 4759px;
+	left: 0px;
+	top: 0px;
+	border: 1px solid #828282;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+	display: flex;
+}
+.menu__button-home {
+	font-family: "Roboto";
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: 700;
+	justify-content: space-between;
+}
+.menu__button {
+	font-family: "Roboto";
+	font-size: 18px;
+	line-height: 22px;
+	justify-content: space-between;
+
+}
